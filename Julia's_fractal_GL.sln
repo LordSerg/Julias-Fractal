@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Julia's_fractal_GL", "Julia's_fractal_GL\Julia's_fractal_GL.vcxproj", "{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Debug|x64.ActiveCfg = Debug|x64
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Debug|x64.Build.0 = Debug|x64
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Debug|x86.ActiveCfg = Debug|Win32
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Debug|x86.Build.0 = Debug|Win32
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Release|x64.ActiveCfg = Release|x64
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Release|x64.Build.0 = Release|x64
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Release|x86.ActiveCfg = Release|Win32
+		{178B5C5E-A9D0-4453-A11B-A8BE3880C7CC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D626823-73C0-4EA7-BE72-B9D77854C114}
+	EndGlobalSection
+EndGlobal
